@@ -49,27 +49,28 @@
 ### 🚀 Como iniciar sua jornada imperial:
 
 ```bash
-# Clone o repositório imperial
-git clone https://github.com/seu-usuario/stormtrooper-os.git
-
-# Acesse a base imperial
-cd stormtrooper-os
-
-# Instale as dependências galácticas
-npm install
-
-# Rode a versão Android
-npx react-native run-android
-
-# Ou para o lado escuro da maçã (iOS)
-npx react-native run-ios
-
 ### 📦 Requisitos de Instalação:
 
 Antes de iniciar a jornada pelo Império, certifique-se de ter os seguintes recursos no seu terminal:
 
-- Node.js versão 16 ou superior
-- React Native CLI instalado globalmente
-- Emulador Android Studio ou Xcode configurado
+- Node.js versão 16 ou superior  
+- App **Expo Go** instalado no seu celular (Android ou iOS)  
 - Conexão ativa com a HoloNet (Internet)
+
+---
+
+### 🚀 Como iniciar o Stormtrooper OS com o Expo:
+
+```bash
+# Clone o repositório imperial
+git clone https://github.com/henriqueflorentino/projeto-swapi.git
+
+# Acesse a base imperial
+cd projeto-swapi
+
+# Instale as dependências galácticas
+npm install
+
+# Inicie o sistema
+npx expo start
 
