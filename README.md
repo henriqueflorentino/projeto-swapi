@@ -46,8 +46,6 @@
 
 ---
 
-### 🚀 Como iniciar sua jornada imperial:
-
 ### 📦 Requisitos de Instalação:
 
 Antes de iniciar a jornada pelo Império, certifique-se de ter os seguintes recursos no seu terminal:
