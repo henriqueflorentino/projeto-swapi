@@ -1,4 +1,4 @@
-# 🌌 Stormtrooper OS - Controle Imperial de Visitantes
+#  Stormtrooper OS - Controle Imperial de Visitantes
 ### Desenvolvido por Henrique Almeida Florentino 
 
 <p align="center">
