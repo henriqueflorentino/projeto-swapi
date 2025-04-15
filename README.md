@@ -1,4 +1,5 @@
 # 🌌 Stormtrooper OS - Controle Imperial de Visitantes
+### Desenvolvido por Henrique Almeida Florentino 
 
 <p align="center">
   <img src="https://github.com/henriqueflorentino/projeto-swapi/blob/main/assets/logostorm.png" width="300" />
