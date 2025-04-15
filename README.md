@@ -1,6 +1,8 @@
 # 🌌 Stormtrooper OS - Controle Imperial de Visitantes
 
-![Stormtrooper Banner](https://github.com/henriqueflorentino/projeto-swapi/blob/main/assets/logostorm.png)
+<p align="center">
+  <img src="https://github.com/henriqueflorentino/projeto-swapi/blob/main/assets/logostorm.png" width="300" />
+</p>
 
 >Bem-vindo(a) ao Stormtrooper OS, um sistema desenvolvido com tecnologia imperial de ponta para o gerenciamento de visitantes em bases do Império Galáctico. Cadastre recrutas, monitore acessos e decida quem entra ou não nas instalações... com um simples toque no seu datapad 🖤
 
